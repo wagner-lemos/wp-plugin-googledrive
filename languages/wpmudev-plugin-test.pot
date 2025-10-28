@@ -1,0 +1,504 @@
+# Copyright (C) 2025 Wagner Lemos (wagnerlemosce@gmail.com)
+# This file is distributed under the GPL-2.0-or-later.
+msgid ""
+msgstr ""
+"Project-Id-Version: WPMU DEV Plugin Test - Forminator Developer Position 0.1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wpmudev-plugin-test\n"
+"Last-Translator: Wagner Lemos <wagnerlemosce@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-09-26T11:57:02+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+
+#. Plugin Name of the plugin
+#: wpmudev-plugin-test.php
+msgid "WPMU DEV Plugin Test - Forminator Developer Position"
+msgstr ""
+
+#. Description of the plugin
+#: wpmudev-plugin-test.php
+msgid "A plugin focused on testing coding skills."
+msgstr ""
+
+#. Author of the plugin
+#: wpmudev-plugin-test.php
+msgid "Wagner Lemos (wagnerlemosce@gmail.com)"
+msgstr ""
+
+#: app/admin-pages/class-googledrive-settings.php:81
+#: app/admin-pages/class-googledrive-settings.php:158
+#: build/wpmudev-plugin-test/app/admin-pages/class-googledrive-settings.php:81
+#: build/wpmudev-plugin-test/app/admin-pages/class-googledrive-settings.php:158
+msgid "Google Drive Test"
+msgstr ""
+
+#: app/admin-pages/class-googledrive-settings.php:255
+#: build/wpmudev-plugin-test/app/admin-pages/class-googledrive-settings.php:255
+#: assets/js/drivetestpage.min.js:703
+msgid "Successfully authenticated with Google Drive!"
+msgstr ""
+
+#: app/admin-pages/class-googledrive-settings.php:259
+#: build/wpmudev-plugin-test/app/admin-pages/class-googledrive-settings.php:259
+msgid "Authentication failed: "
+msgstr ""
+
+#: app/admin-pages/class-posts-maintenance-page.php:31
+#: app/admin-pages/class-posts-maintenance-page.php:32
+#: app/admin-pages/class-posts-maintenance-page.php:51
+#: build/wpmudev-plugin-test/app/admin-pages/class-posts-maintenance-page.php:31
+#: build/wpmudev-plugin-test/app/admin-pages/class-posts-maintenance-page.php:32
+#: build/wpmudev-plugin-test/app/admin-pages/class-posts-maintenance-page.php:51
+msgid "Posts Maintenance"
+msgstr ""
+
+#: app/admin-pages/class-posts-maintenance-page.php:45
+#: build/wpmudev-plugin-test/app/admin-pages/class-posts-maintenance-page.php:45
+msgid "Scan started in background."
+msgstr ""
+
+#: app/admin-pages/class-posts-maintenance-page.php:54
+#: build/wpmudev-plugin-test/app/admin-pages/class-posts-maintenance-page.php:54
+msgid "Select post types to scan:"
+msgstr ""
+
+#: app/admin-pages/class-posts-maintenance-page.php:58
+#: build/wpmudev-plugin-test/app/admin-pages/class-posts-maintenance-page.php:58
+msgid "Scan Posts"
+msgstr ""
+
+#: app/admin-pages/class-posts-maintenance-page.php:61
+#: build/wpmudev-plugin-test/app/admin-pages/class-posts-maintenance-page.php:61
+msgid "Progress"
+msgstr ""
+
+#: app/endpoints/v1/class-googledrive-rest.php:187
+#: build/wpmudev-plugin-test/app/endpoints/v1/class-googledrive-rest.php:187
+msgid "No credentials found"
+msgstr ""
+
+#: app/endpoints/v1/class-googledrive-rest.php:211
+#: app/endpoints/v1/class-googledrive-rest.php:244
+#: app/endpoints/v1/class-googledrive-rest.php:656
+#: build/wpmudev-plugin-test/app/endpoints/v1/class-googledrive-rest.php:211
+#: build/wpmudev-plugin-test/app/endpoints/v1/class-googledrive-rest.php:244
+#: build/wpmudev-plugin-test/app/endpoints/v1/class-googledrive-rest.php:656
+msgid "Security check failed. Please refresh the page and try again."
+msgstr ""
+
+#: app/endpoints/v1/class-googledrive-rest.php:218
+#: build/wpmudev-plugin-test/app/endpoints/v1/class-googledrive-rest.php:218
+msgid "Client ID and Client Secret are required"
+msgstr ""
+
+#: app/endpoints/v1/class-googledrive-rest.php:230
+#: build/wpmudev-plugin-test/app/endpoints/v1/class-googledrive-rest.php:230
+msgid "Credentials saved successfully"
+msgstr ""
+
+#: app/endpoints/v1/class-googledrive-rest.php:250
+#: build/wpmudev-plugin-test/app/endpoints/v1/class-googledrive-rest.php:250
+msgid "Please save your Google Drive credentials first"
+msgstr ""
+
+#: app/endpoints/v1/class-googledrive-rest.php:272
+#: build/wpmudev-plugin-test/app/endpoints/v1/class-googledrive-rest.php:272
+msgid "Opening Google authentication in a new window. If blocked, please check your browser settings."
+msgstr ""
+
+#: app/endpoints/v1/class-googledrive-rest.php:302
+#: build/wpmudev-plugin-test/app/endpoints/v1/class-googledrive-rest.php:302
+msgid "Invalid state parameter"
+msgstr ""
+
+#: app/endpoints/v1/class-googledrive-rest.php:312
+#: build/wpmudev-plugin-test/app/endpoints/v1/class-googledrive-rest.php:312
+msgid "No authorization code received"
+msgstr ""
+
+#: app/endpoints/v1/class-googledrive-rest.php:427
+#: app/endpoints/v1/class-googledrive-rest.php:482
+#: app/endpoints/v1/class-googledrive-rest.php:550
+#: app/endpoints/v1/class-googledrive-rest.php:603
+#: build/wpmudev-plugin-test/app/endpoints/v1/class-googledrive-rest.php:427
+#: build/wpmudev-plugin-test/app/endpoints/v1/class-googledrive-rest.php:482
+#: build/wpmudev-plugin-test/app/endpoints/v1/class-googledrive-rest.php:550
+#: build/wpmudev-plugin-test/app/endpoints/v1/class-googledrive-rest.php:603
+msgid "Not authenticated with Google Drive"
+msgstr ""
+
+#: app/endpoints/v1/class-googledrive-rest.php:487
+#: build/wpmudev-plugin-test/app/endpoints/v1/class-googledrive-rest.php:487
+msgid "No file uploaded"
+msgstr ""
+
+#: app/endpoints/v1/class-googledrive-rest.php:533
+#: build/wpmudev-plugin-test/app/endpoints/v1/class-googledrive-rest.php:533
+msgid "File uploaded successfully"
+msgstr ""
+
+#: app/endpoints/v1/class-googledrive-rest.php:556
+#: build/wpmudev-plugin-test/app/endpoints/v1/class-googledrive-rest.php:556
+msgid "File ID is required"
+msgstr ""
+
+#: app/endpoints/v1/class-googledrive-rest.php:569
+#: build/wpmudev-plugin-test/app/endpoints/v1/class-googledrive-rest.php:569
+msgid "Failed to get file metadata"
+msgstr ""
+
+#: app/endpoints/v1/class-googledrive-rest.php:575
+#: build/wpmudev-plugin-test/app/endpoints/v1/class-googledrive-rest.php:575
+msgid "Google Drive API error: "
+msgstr ""
+
+#: app/endpoints/v1/class-googledrive-rest.php:591
+#: build/wpmudev-plugin-test/app/endpoints/v1/class-googledrive-rest.php:591
+msgid "Error getting download URL: "
+msgstr ""
+
+#: app/endpoints/v1/class-googledrive-rest.php:638
+#: build/wpmudev-plugin-test/app/endpoints/v1/class-googledrive-rest.php:638
+msgid "Folder created successfully"
+msgstr ""
+
+#: app/endpoints/v1/class-googledrive-rest.php:663
+#: build/wpmudev-plugin-test/app/endpoints/v1/class-googledrive-rest.php:663
+msgid "No active connection found"
+msgstr ""
+
+#: app/endpoints/v1/class-googledrive-rest.php:698
+#: build/wpmudev-plugin-test/app/endpoints/v1/class-googledrive-rest.php:698
+msgid "Successfully disconnected from Google Drive"
+msgstr ""
+
+#: assets/js/drivetestpage.min.js:363
+msgid "Invalid Client ID format. Should end with .apps.googleusercontent.com"
+msgstr ""
+
+#: assets/js/drivetestpage.min.js:370
+msgid "Client Secret appears to be too short. Please check your credentials."
+msgstr ""
+
+#: assets/js/drivetestpage.min.js:386
+msgid "Credentials saved successfully! You can now authenticate with Google Drive."
+msgstr ""
+
+#: assets/js/drivetestpage.min.js:390
+msgid "Failed to save credentials. Please check your Google Cloud Console configuration."
+msgstr ""
+
+#: assets/js/drivetestpage.min.js:397
+msgid "Are you sure you want to clear the saved credentials?"
+msgstr ""
+
+#: assets/js/drivetestpage.min.js:425
+msgid "Credentials"
+msgstr ""
+
+#: assets/js/drivetestpage.min.js:430
+msgid "Configured"
+msgstr ""
+
+#: assets/js/drivetestpage.min.js:440
+msgid "Edit"
+msgstr ""
+
+#: assets/js/drivetestpage.min.js:449
+msgid "Hide Instructions"
+msgstr ""
+
+#: assets/js/drivetestpage.min.js:449
+msgid "Show Instructions"
+msgstr ""
+
+#: assets/js/drivetestpage.min.js:461
+msgid "How to get Google Drive credentials:"
+msgstr ""
+
+#: assets/js/drivetestpage.min.js:463
+msgid "Go to"
+msgstr ""
+
+#: assets/js/drivetestpage.min.js:464
+msgid "Create a new project or select existing one"
+msgstr ""
+
+#: assets/js/drivetestpage.min.js:465
+msgid "Enable Google Drive API"
+msgstr ""
+
+#: assets/js/drivetestpage.min.js:466
+msgid "Go to APIs & Services → Credentials"
+msgstr ""
+
+#: assets/js/drivetestpage.min.js:467
+msgid "Create OAuth 2.0 Client ID (Web application)"
+msgstr ""
+
+#: assets/js/drivetestpage.min.js:468
+msgid "Add authorized redirect URI:"
+msgstr ""
+
+#: assets/js/drivetestpage.min.js:469
+msgid "Add authorized JavaScript origins:"
+msgstr ""
+
+#: assets/js/drivetestpage.min.js:470
+msgid "Copy Client ID and Client Secret"
+msgstr ""
+
+#: assets/js/drivetestpage.min.js:503
+#: assets/js/drivetestpage.min.js:598
+msgid "Client ID"
+msgstr ""
+
+#: assets/js/drivetestpage.min.js:512
+msgid "e.g., 123456789-abcdefghijklmnop.apps.googleusercontent.com"
+msgstr ""
+
+#: assets/js/drivetestpage.min.js:516
+msgid "Get this from Google Cloud Console → APIs & Services → Credentials"
+msgstr ""
+
+#: assets/js/drivetestpage.min.js:520
+msgid "Client ID should end with .apps.googleusercontent.com"
+msgstr ""
+
+#: assets/js/drivetestpage.min.js:526
+#: assets/js/drivetestpage.min.js:606
+msgid "Client Secret"
+msgstr ""
+
+#: assets/js/drivetestpage.min.js:536
+msgid "Enter your Google Client Secret"
+msgstr ""
+
+#: assets/js/drivetestpage.min.js:542
+msgid "Keep this secure and private. Never share it publicly."
+msgstr ""
+
+#: assets/js/drivetestpage.min.js:546
+msgid "Client Secret appears to be too short"
+msgstr ""
+
+#: assets/js/drivetestpage.min.js:560
+msgid "Saving..."
+msgstr ""
+
+#: assets/js/drivetestpage.min.js:565
+msgid "Save Credentials"
+msgstr ""
+
+#: assets/js/drivetestpage.min.js:577
+msgid "Cancel"
+msgstr ""
+
+#: assets/js/drivetestpage.min.js:588
+msgid "Clear"
+msgstr ""
+
+#: assets/js/drivetestpage.min.js:601
+#: assets/js/drivetestpage.min.js:609
+msgid "Not set"
+msgstr ""
+
+#: assets/js/drivetestpage.min.js:666
+msgid "Are you sure you want to disconnect from Google Drive? This will revoke access and you'll need to authenticate again."
+msgstr ""
+
+#: assets/js/drivetestpage.min.js:686
+msgid "Authentication"
+msgstr ""
+
+#: assets/js/drivetestpage.min.js:691
+msgid "Connected"
+msgstr ""
+
+#: assets/js/drivetestpage.min.js:709
+msgid "You can now upload files, create folders, and manage your Google Drive content."
+msgstr ""
+
+#: assets/js/drivetestpage.min.js:720
+msgid "Disconnecting..."
+msgstr ""
+
+#: assets/js/drivetestpage.min.js:725
+msgid "Disconnect"
+msgstr ""
+
+#: assets/js/drivetestpage.min.js:738
+msgid "Connect to Google Drive"
+msgstr ""
+
+#: assets/js/drivetestpage.min.js:740
+msgid "Click the button below to authenticate with Google Drive and start managing your files."
+msgstr ""
+
+#: assets/js/drivetestpage.min.js:748
+msgid "Authenticate with Google"
+msgstr ""
+
+#: assets/js/drivetestpage.min.js:834
+msgid "File uploaded successfully!"
+msgstr ""
+
+#: assets/js/drivetestpage.min.js:844
+msgid "Failed to upload file"
+msgstr ""
+
+#: assets/js/drivetestpage.min.js:863
+msgid "Upload File to Drive"
+msgstr ""
+
+#: assets/js/drivetestpage.min.js:901
+msgid "Choose File to Upload"
+msgstr ""
+
+#: assets/js/drivetestpage.min.js:902
+msgid "Click to browse or drag and drop files here"
+msgstr ""
+
+#: assets/js/drivetestpage.min.js:954
+msgid "Uploading..."
+msgstr ""
+
+#: assets/js/drivetestpage.min.js:959
+msgid "Upload File"
+msgstr ""
+
+#: assets/js/drivetestpage.min.js:1027
+msgid "Folder created successfully!"
+msgstr ""
+
+#: assets/js/drivetestpage.min.js:1035
+msgid "Failed to create folder"
+msgstr ""
+
+#: assets/js/drivetestpage.min.js:1047
+msgid "Create New Folder"
+msgstr ""
+
+#: assets/js/drivetestpage.min.js:1079
+msgid "Folder Name"
+msgstr ""
+
+#: assets/js/drivetestpage.min.js:1087
+msgid "Enter folder name"
+msgstr ""
+
+#: assets/js/drivetestpage.min.js:1092
+msgid "Choose a descriptive name for your new folder"
+msgstr ""
+
+#: assets/js/drivetestpage.min.js:1105
+msgid "Creating..."
+msgstr ""
+
+#: assets/js/drivetestpage.min.js:1110
+msgid "Create Folder"
+msgstr ""
+
+#: assets/js/drivetestpage.min.js:1219
+msgid "Folder"
+msgstr ""
+
+#: assets/js/drivetestpage.min.js:1219
+msgid "File"
+msgstr ""
+
+#: assets/js/drivetestpage.min.js:1238
+msgid "Download file"
+msgstr ""
+
+#: assets/js/drivetestpage.min.js:1245
+msgid "Downloading..."
+msgstr ""
+
+#: assets/js/drivetestpage.min.js:1245
+msgid "Download"
+msgstr ""
+
+#: assets/js/drivetestpage.min.js:1254
+msgid "View in Google Drive"
+msgstr ""
+
+#: assets/js/drivetestpage.min.js:1257
+msgid "View in Drive"
+msgstr ""
+
+#: assets/js/drivetestpage.min.js:1315
+#: assets/js/drivetestpage.min.js:1319
+msgid "Showing"
+msgstr ""
+
+#: assets/js/drivetestpage.min.js:1315
+msgid "of"
+msgstr ""
+
+#: assets/js/drivetestpage.min.js:1315
+#: assets/js/drivetestpage.min.js:1319
+#: assets/js/drivetestpage.min.js:1493
+msgid "files"
+msgstr ""
+
+#: assets/js/drivetestpage.min.js:1334
+msgid "Loading..."
+msgstr ""
+
+#: assets/js/drivetestpage.min.js:1339
+msgid "Load More"
+msgstr ""
+
+#: assets/js/drivetestpage.min.js:1442
+#: assets/js/drivetestpage.min.js:1464
+msgid "Your Drive Files"
+msgstr ""
+
+#: assets/js/drivetestpage.min.js:1450
+msgid "Loading files..."
+msgstr ""
+
+#: assets/js/drivetestpage.min.js:1471
+msgid "Refresh file list"
+msgstr ""
+
+#: assets/js/drivetestpage.min.js:1474
+msgid "Refresh"
+msgstr ""
+
+#: assets/js/drivetestpage.min.js:1485
+msgid "No files found"
+msgstr ""
+
+#: assets/js/drivetestpage.min.js:1486
+msgid "Your Google Drive appears to be empty. Upload some files or create folders to get started."
+msgstr ""
+
+#: assets/js/drivetestpage.min.js:1493
+msgid "file"
+msgstr ""
+
+#: assets/js/drivetestpage.min.js:1587
+msgid "Failed to load files"
+msgstr ""
+
+#: assets/js/drivetestpage.min.js:1609
+msgid "Failed to start authentication"
+msgstr ""
+
+#: assets/js/drivetestpage.min.js:1642
+#: assets/js/drivetestpage.min.js:1649
+msgid "Failed to download file"
+msgstr ""
+
+#: assets/js/drivetestpage.min.js:1645
+msgid "Failed to get download URL"
+msgstr ""
+
+#: assets/js/drivetestpage.min.js:1687
+msgid "Failed to disconnect from Google Drive"
+msgstr ""
